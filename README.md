@@ -1,5 +1,5 @@
 # Nodejs-Real-time-Chat-App
-Basic real time chat application with;
+Basic real time chat application with;a
 * Node.js 
 * socket.io
 * ExpressJS
